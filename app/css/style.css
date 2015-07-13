@@ -1,0 +1,40 @@
+body
+{
+	color:black;
+	font-family: "Lucida Console", Monaco, monospace;
+	overflow:hidden;
+	margin:0;
+	background-color:#727294;
+}
+
+.number
+{
+	font-size:15px;
+	pointer-events:none;
+	fill:#36465D;
+}
+
+.prime
+{
+	fill:#F6A675;
+}
+
+.bg
+{
+	background-color:#eee;
+	stroke:#727274;
+}
+
+.line
+{
+	stroke:#2070A5;
+}
+
+.even
+{
+	fill:#3C5269;
+}
+
+.line.prime
+{
+}
